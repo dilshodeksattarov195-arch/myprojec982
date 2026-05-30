@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheppdate",
+        "uuid": 6738484,
+        "checksum": "76wk6p"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
